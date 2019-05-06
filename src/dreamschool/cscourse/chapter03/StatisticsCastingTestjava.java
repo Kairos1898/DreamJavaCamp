@@ -1,4 +1,4 @@
-package icehs.schience.chapter03;
+package dreamschool.cscourse.chapter03;
 
 public class StatisticsCastingTestjava {
 	
