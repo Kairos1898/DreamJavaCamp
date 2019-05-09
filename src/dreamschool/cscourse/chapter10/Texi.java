@@ -1,0 +1,17 @@
+package dreamschool.cscourse.chapter10;
+
+public class Texi extends car {
+	private int maxNum;
+
+	public int getMaxNum() {
+		return maxNum;
+		
+
+	}
+	@Override
+	public void go(int d) {
+		System.out.println("택시를 타고" + d + "km 이동합니다.");
+	}
+
+
+}
